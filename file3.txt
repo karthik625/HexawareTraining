@@ -1,1 +1,2 @@
-youcome he how are you doing
+youcome to java session
+learn core java,sql and git
